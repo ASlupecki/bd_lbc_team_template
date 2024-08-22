@@ -1,4 +1,4 @@
-# [Team Name] Project Rubric
+# 4Better Project Rubric
 
 ## Background
 
@@ -17,19 +17,19 @@ We want you to see the full set of expectations for transparency’s sake.*
 
 *Provide links to the following project deliverables:*
 
-|Deliverable                                                      |Due Date                  |Date Completed |URL                               |
-|---                                                              |---                       |---            |---                               |
-|Team name                                                        |Sprint 1 Module 1         |               |name:                             |
-|[Design Document - problem statement](design_document.md)        |Sprint 1 Module 2         |               |                                  |
-|[Team Charter](team_charter.md)                                  |Sprint 1 Module 3         |               |                                  |
-|[Design Document](design_document.md)                            |Sprint 1 REQUIRED TO GO ON|               |                                  |
-|Project Completion (Feature Complete)                            |Sprint 3                  |               |                                  |
-|[Team Reflection](reflection.md)                                 |Sprint 3                  |               |                                  |
-|[Accomplishment Tracking (person 1)](accomplishment_tracking.md) |Sprint 3                  |               |                                  |
-|[Accomplishment Tracking (person 2)](accomplishment_tracking.md) |Sprint 3                  |               |                                  |
-|[Accomplishment Tracking (person 3)](accomplishment_tracking.md) |Sprint 3                  |               |                                  |
-|[Accomplishment Tracking (person 4)](accomplishment_tracking.md) |Sprint 3                  |               |                                  |
-|Self Reflection                                                  |Sprint 3                  |               |n/a (will be submitted via Canvas - "Wrap-up" section) |
+|Deliverable                                                      |Due Date                  | Date Completed | URL                                                    |
+|---                                                              |---                       |----------------|--------------------------------------------------------|
+|Team name                                                        |Sprint 1 Module 1         | 8/11/24        | name:      4Better                                     |
+|[Design Document - problem statement](design_document.md)        |Sprint 1 Module 2         | 8/12/24        |                                                        |
+|[Team Charter](team_charter.md)                                  |Sprint 1 Module 3         |                |                                                        |
+|[Design Document](design_document.md)                            |Sprint 1 REQUIRED TO GO ON| 8/22/24        |                                                        |
+|Project Completion (Feature Complete)                            |Sprint 3                  |                |                                                        |
+|[Team Reflection](reflection.md)                                 |Sprint 3                  |                |                                                        |
+|[Accomplishment Tracking (person 1)](accomplishment_tracking.md) |Sprint 3                  |                |                                                        |
+|[Accomplishment Tracking (person 2)](accomplishment_tracking.md) |Sprint 3                  |                |                                                        |
+|[Accomplishment Tracking (person 3)](accomplishment_tracking.md) |Sprint 3                  |                |                                                        |
+|[Accomplishment Tracking (person 4)](accomplishment_tracking.md) |Sprint 3                  |                |                                                        |
+|Self Reflection                                                  |Sprint 3                  |                | n/a (will be submitted via Canvas - "Wrap-up" section) |
 
 ## Technical Learning Objectives
 

@@ -1,0 +1,15 @@
+@startuml
+'https://plantuml.com/sequence-diagram
+
+actor Client
+
+Client -> Website_Dog_Page : Requests seller contact form
+Website_Dog_Page -> GetSellerContactActivity : get seller contact request
+database Dogs
+GetSellerContactActivity -> Dogs : get seller
+Dogs --> GetSellerContactActivity : returns seller
+database Sellers
+GetSellerContactActivity -> Sellers : get seller contact
+Sellers --> GetSellerContactActivity : returns seller contact information
+GetSellerContactActivity --> Client : seller contact information
+@enduml

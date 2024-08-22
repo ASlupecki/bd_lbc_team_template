@@ -1,0 +1,16 @@
+@startuml
+'https://plantuml.com/sequence-diagram
+
+
+actor Client
+
+
+Client -> Website_Create_Dog_Page : Submit 'Create New Dog' form
+Website_Create_Dog_Page -> CreateDogActivity : Create New Dog request
+
+database Dogs
+CreateDogActivity -> Dogs : save new dog to database
+database Sellers
+CreateDogActivity -> Sellers : save new dog to database
+
+@enduml

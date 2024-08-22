@@ -17,7 +17,15 @@ level of detail to aim for.*
 
 ## 1. Problem Statement
 
-*Explain clearly what problem you are trying to solve.*
+When potential dog owners are searching for a new dog, they can find themselves mismatched.
+Whether the dog they get has too much energy, is too hard to train, etc.  Many pet sites
+and city shelters only post photos of the animal and sometimes, loose descriptions.  It's difficult
+to determine if the dog will adequately fit into your lifestyle.
+
+This design document describes a 'matching' service, that will allow dog sellers to easily post a dog's profile,
+containing a basic set of easily filterable traits.  Dog shoppers can then search dogs
+by desirable traits for their particular needs.
+
 
 
 ## 2. Top Questions to Resolve in Review
